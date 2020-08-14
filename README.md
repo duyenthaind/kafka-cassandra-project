@@ -22,4 +22,4 @@ KafKa
 
 MySQL
 - Framework: Hibernate
-- Schema: Create base on cassandra and entities file
+- Schema: Create base on cassandra and entities file java
